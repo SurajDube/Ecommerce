@@ -1,0 +1,326 @@
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey3858@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (492b4670c0e7e22c3eb13c1b4cefb910)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey926@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (8cce231247d7ad3e4a30ae384ef65c16)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey3314@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (5cb7be4ab7d44a3907f19910ef2e5eeb)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey2637@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (05eefe50fbbf2eb9a99645d01a7460da)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey9717@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (ae4111769417c76e1bf55a9bd98c768d)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey1020@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (7781a40673aa14e975e49dd6d17469ee)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey3699@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (2497775ae61d11ba94439e636c2ac279)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey1169@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (1d5d7b90263588f5de6bc52d49aeab5e)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey2576@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: SubmitCreate]
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey752@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: customer_lastname]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> xpath: //h1[text()='Create an account']]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: customer_lastname]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: customer_firstname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: months]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: customer_lastname]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: years]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: customer_lastname]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (4446d8d94465ed48314303d20322ab83)] -> id: newsletter]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (3c2cf996f08d13f6a0efd232eb6cb54d)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (223fc25b0b5d41999ed918a609e83bbd)] -> link text: Sign in]
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey3063@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (86e73019be9397af20b0e3e78ef012f3)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey8253@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (1f83c5a2a9165eece761a2bd8d51ee21)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey8811@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (131797ff004c31f03b568264fa72ac58)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey9509@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (5016f008f2a268575aefa0ee6a50e4cd)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey2618@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (64d44dd0af0716d81f520971266fe847)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey5730@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (b1029b47eefaa4423ece5ed0c9761edc)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey3815@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (9b71ea408a2943c0a5cd0043e39c0c91)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey6135@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (986d63be74a463bce13197621b6ee34c)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey3744@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (a7374b4283dc2815bbf4ef228b39d220)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey5361@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (c8113ae134167c4360c03ff5f22e4b37)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (f1eb524d082b284d4ec30e9f9fbd3b96)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey987@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (f1eb524d082b284d4ec30e9f9fbd3b96)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (f1eb524d082b284d4ec30e9f9fbd3b96)] -> id: SubmitCreate]
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (3c4d2f230c84d32722399383e5d82108)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey793@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (3c4d2f230c84d32722399383e5d82108)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (3c4d2f230c84d32722399383e5d82108)] -> id: SubmitCreate]
+*****Starting TC001_Customer Registration*****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> link text: Sign in]
+Entering EmailID:1995surajbcadubey8116@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: email_create]
+Click on Create an account:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: SubmitCreate]
+Verifying Custmor information Page by using Object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> xpath: //h1[text()='Create an account']]
+Click on Mr radio button by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: id_gender1]
+Click on Mr first name by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: customer_firstname]
+Click on Mr last name by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: customer_lastname]
+Click on password by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: customer_lastname]
+Click on Date by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: days]
+Click on month by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: months]
+Click on year by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: years]
+Click on newschkbox by using object:[[ChromeDriver: chrome on WINDOWS (6d2a62a769c121005c5da55cffb8e54b)] -> id: newsletter]
+Click on Register by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+*****Ending TC001_Customer Registration*****
