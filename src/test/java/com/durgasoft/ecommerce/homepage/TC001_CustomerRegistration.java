@@ -5,7 +5,7 @@ import com.durgasoft.ecommerce.PageUI.CreateLoginAccount;
 import com.durgasoft.ecommerce.basepage.BasePage;
 import org.apache.log4j.Logger;
 import org.testng.annotations.BeforeClass;
-
+ 
 public class TC001_CustomerRegistration extends BasePage {
 	
 	public static final Logger log = Logger.getLogger(TC001_CustomerRegistration.class.getName());
